@@ -65,11 +65,12 @@ Besides, the experiment parameters is listed in paper. You can refer to these pa
 If you find this repository useful in your research, please consider citing the following paper:
 
 ```
-@article{wu2024hierarchical,
-  title={A Hierarchical Fused Quantum Fuzzy Neural Network for Image Classification},
-  author={Wu, Sheng-Yao and Li, Run-Ze and Song, Yan-Qi and Qin, Su-Juan and Wen, Qiao-Yan and Gao, Fei},
-  journal={arXiv preprint arXiv:2403.09318},
-  year={2024}
+@article{wu2024quantum,
+  title={Quantum Assisted Hierarchical Fuzzy Neural Network for Image Classification},
+  author={Wu, Shengyao and Li, Runze and Song, Yanqi and Qin, Sujuan and Wen, Qiaoyan and Gao, Fei},
+  journal={IEEE Transactions on Fuzzy Systems},
+  year={2024},
+  publisher={IEEE}
 }
 ```
 
