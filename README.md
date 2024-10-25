@@ -9,6 +9,8 @@ The model contains four components:
 
 ## Requirements
 
+For Linux:
+
 - Python 3.8
 - torchquantum == 0.1.7
 - ddu_dirty_mnist == 1.1.1
